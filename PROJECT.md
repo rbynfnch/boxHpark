@@ -30,7 +30,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 ## Build checklist
 - [x] 1. Inventory kit templates (see KIT_INVENTORY.md)
 - [x] 2. Kit templates imported to Elementor library (14, already present); Home page built as DRAFT (page ID 105) with placeholders for events, news, Facebook, newsletter. Pro-only widgets avoided.
-- [ ] 3. Static front page, Blog page, global colors/fonts, logo
+- [x] 3. Done on test site: Home (ID 105) published as static front page (hero photo ID 110, since-1980 copy); "News & Community" page (ID 115) is the Blog page; logo (media 107) set; tagline set; kit global colors changed to forest green / tan / sky blue and body text raised to 20px. Logo is a JPG (check for white box); alt text added to logo + hero. Media IDs: 107 logo, 110/113 park, 108/109/111/112 drive-in.
 - [ ] 4. Header/footer without Theme Builder (Customizer or Header Footer Elementor)
 - [ ] 5. The Events Calendar, volunteer form, newsletter, donations, Facebook feed
 - [ ] 6. Reservations (last, after policy decisions)
