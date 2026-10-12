@@ -28,7 +28,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Installed/active: WordPress, Hello Elementor, free Elementor, Template Kit Import, the kit's required plugins, Touro kit zip uploaded.
 
 ## Build checklist
-- [ ] 1. Inventory kit templates; flag Elementor Pro-dependent ones (likely header, footer, forms, post grids)
+- [x] 1. Inventory kit templates (see KIT_INVENTORY.md)
 - [ ] 2. Import templates, build Home page, note locked Pro widgets
 - [ ] 3. Static front page, Blog page, global colors/fonts, logo
 - [ ] 4. Header/footer without Theme Builder (Customizer or Header Footer Elementor)
@@ -38,7 +38,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 ## Open decisions for the owner
 - ~~Reservations: instant booking or request-and-approve?~~ DECIDED: request-and-approve (board approves each request).
 - What is reservable (pavilion, fields, whole park) and fee for each?
-- Nonprofit or town-owned? (donation platform, receipts, payment account owner)
+- ~~Nonprofit or town-owned?~~ DECIDED: nonprofit. Use Zeffy (free for nonprofits, no platform fee); confirm EIN/501(c)(3) status for receipts and that the org (not the owner personally) holds the payment account.
 - Permanent domain and hosting: who owns them (organization, owner as admin)?
 - Park rules, use agreement, damage-deposit policy before reservations go live.
 - Envato license terms (single purchase vs. Elements subscription).
