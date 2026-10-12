@@ -68,3 +68,9 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Availability statuses must use icon + text (Available / Pending / Reserved), not color alone.
 - Applied: Elementor global colors set; Home page rebuilt with the section color plan (hero photo, cream events, green community message, sky-tint reservation, cream get-involved cards, deeper-cream news, sky-tint Facebook, cream Welcome to Fairview, green newsletter). Footer (Dark Slate) is built in step 4.
 - Not yet done: kit-wide default button radius (new buttons need 7px set per button, or Site Settings > Buttons), page body background cream on non-Elementor pages, link color in kit, Info color, hover/focus states outside Home.
+
+## Events system (see EVENTS_PLAN.md)
+- Installed on test site: The Events Calendar 6.18.0 (free). Created event categories: Community, Family, Celebration, Fundraiser, Volunteer, Movies, Sports, Park, Meeting, Youth, Other, plus "Reserved (park in use)" for the reservation calendar; tag "Box H History" (box-h-history) marks events that become history records.
+- NOT done yet: Event Tickets (registration), volunteer sign-up plugin, Events page layout/styling, TEC settings (mobile default = List), sample events, share buttons, SEO plugin, Mailchimp, Smash Balloon.
+- Known gaps in free tier: recurring events, category dropdown filter bar, automatic attendee emails on cancellation, automatic volunteer-count link.
+- WPVibe free plan allows 100 calls per rolling 24 hours; batch work.
