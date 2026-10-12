@@ -53,3 +53,10 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Box H Park Inc., 501(c)(3), Fairview, WY, EIN 88-2628486. Mission: a community park with a ball field, playground, shelter and open space. Source: https://charitynavigator.org/ein/882628486
 - Fairview is an unincorporated community in Lincoln County, WY (2020 pop. 277).
 - Still needed from the owner: address, contact email/phone, rules, hours, events, board names. Paste Facebook "About" text or recent posts.
+
+## Owner decisions (latest)
+- No paid plugins. Reservations: free approach (see RESERVATIONS_PLAN.md). Elementor Pro: still no.
+- Stripe account already exists (organization-owned). Donations via Stripe, no paid donation plugin.
+- Theme colors will be changed and Box H's own photos supplied (do not use third-party photos, incl. SVI).
+- Hero idea: "A gathering place for Fairview families, friends and neighbors since 1980." + "100% community supported."
+- Content inventory started: content-inventory.csv (all rows need board verification).
