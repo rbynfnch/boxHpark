@@ -28,7 +28,7 @@ WPVibe free plan = 100 calls per rolling 24h. Plan ~15 calls per block; run `lis
 4. Core pages
    - [ ] Our Story timeline (verification flags)
    - [ ] Volunteer: sign-up sheet plugin, Get Involved page
-   - [ ] Support Box H: Stripe links, categories
+   - [ ] Support Box H: Stripe links, categories; use the photo + floating stat card + checklist layout (see PROJECT.md design note)
    - [ ] Fairview Resources: structured resource type + 6 categories
    - [ ] History archive (events tagged box-h-history)
    - [ ] About / Contact + contact form

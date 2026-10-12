@@ -79,3 +79,9 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - "Main Menu" (ID 16) assigned to header location: Home, Events & Calendar (/events/, plugin page), Reserve the Park (/reservations/, ID 117), Get Involved (/volunteer/, 118), Support Box H (/donate/, 119), Our Story (/our-story/, 120), Fairview Resources (/fairview-resources/, 121), News / Community (/news/, 115), About / Contact (/about/, 122). Pages 117-122 are "coming soon" placeholders (published, site hidden from search engines).
 - Verified in page HTML: desktop nav plus mobile toggle menu render. Header still uses theme default styling (not yet palette-styled); footer not built (Dark Slate, step 4).
 - WPVibe free plan: 100 calls / rolling 24h; about 93 used at this point.
+
+## Design note: donations section idea (from owner screenshot of kit's About section)
+- Layout: large photo on the left with a floating white stat card overlapping its edge (big number, small label, dark bar below); on the right a big heading, short paragraph, two-column checkmark list, and one button.
+- Adapt for "Support Box H": photo = playground/community (owner's own photo); floating card = a verified stat (e.g. "$92,000 playground, 500+ volunteer hours": NEEDS ADMIN VERIFICATION) instead of the star rating and "Top Company"; checklist = what gifts fund (playground, roof/grandstand repairs, lighting, sprinklers, events, maintenance); button = Clay "Support Box H".
+- Buildable with free Elementor widgets (image, heading, text, icon list, button, nested containers). Use Park Green checkmarks, cream/white card, Dark Slate text.
+- Also usable on Home ("Box H belongs to the community") and Our Story.
