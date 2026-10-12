@@ -10,6 +10,7 @@ WPVibe free plan = 100 calls per rolling 24h. Plan ~15 calls per block; run `lis
 - [ ] Google Maps API key (for event maps) if wanted
 - [ ] Confirm Envato kit license; confirm this Safari & Zoo kit is the one purchased
 - [ ] Better logo file (PNG, transparent background) and more park/family photos
+- [ ] Board: list of current park needs still open (roof, grill, grandstand, sprinklers, lighting, other) and which Stripe fund each maps to
 - [ ] Board review of content-inventory.csv history facts (NEEDS ADMIN VERIFICATION)
 
 ## B. Site build (in order)
@@ -28,7 +29,7 @@ WPVibe free plan = 100 calls per rolling 24h. Plan ~15 calls per block; run `lis
 4. Core pages
    - [ ] Our Story timeline (verification flags)
    - [ ] Volunteer: sign-up sheet plugin, Get Involved page
-   - [ ] Support Box H: Stripe links, categories; use the photo + floating stat card + checklist layout (see PROJECT.md design note)
+   - [ ] Support Box H: Stripe links, categories; use box-h-park.jpg (ID 113) + floating stat card + checklist of CURRENT needs (see PROJECT.md design note)
    - [ ] Fairview Resources: structured resource type + 6 categories
    - [ ] History archive (events tagged box-h-history)
    - [ ] About / Contact + contact form

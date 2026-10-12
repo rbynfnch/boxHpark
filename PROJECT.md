@@ -85,3 +85,8 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Adapt for "Support Box H": photo = playground/community (owner's own photo); floating card = a verified stat (e.g. "$92,000 playground, 500+ volunteer hours": NEEDS ADMIN VERIFICATION) instead of the star rating and "Top Company"; checklist = what gifts fund (playground, roof/grandstand repairs, lighting, sprinklers, events, maintenance); button = Clay "Support Box H".
 - Buildable with free Elementor widgets (image, heading, text, icon list, button, nested containers). Use Park Green checkmarks, cream/white card, Dark Slate text.
 - Also usable on Home ("Box H belongs to the community") and Our Story.
+
+### Update to donations section (owner)
+- Photo: box-h-park.jpg (media ID 113, 1179x868 landscape).
+- The playground is already funded and built, so the section focuses on CURRENT needs: roof repairs, kitchen grill, grandstand repairs, sprinkler system, lighting upgrades, plus events and general maintenance. (These came from 2022 SVI fundraising coverage; the board must confirm which are still open and add any new ones.)
+- Floating stat card: do not use the playground cost as a goal. Use something true and current, e.g. "100% community supported" / "Volunteer-run. No tax dollars." (SVI-sourced: NEEDS ADMIN VERIFICATION). The $92,000 / 500+ hours playground story belongs on Our Story as a past achievement ("what you built together").
