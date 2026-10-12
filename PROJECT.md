@@ -48,3 +48,8 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Do not import unneeded demo content.
 - Migrate with All-in-One WP Migration, Duplicator, or UpdraftPlus; do a test run first.
 - Real Stripe/PayPal/Zeffy and newsletter accounts belong to the organization, not the owner personally. Reconnect the Facebook feed on the final domain.
+
+## Public info found (unverified, from web search; Facebook page not reachable from the build environment)
+- Box H Park Inc., 501(c)(3), Fairview, WY, EIN 88-2628486. Mission: a community park with a ball field, playground, shelter and open space. Source: https://charitynavigator.org/ein/882628486
+- Fairview is an unincorporated community in Lincoln County, WY (2020 pop. 277).
+- Still needed from the owner: address, contact email/phone, rules, hours, events, board names. Paste Facebook "About" text or recent posts.
