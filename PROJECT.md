@@ -29,7 +29,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 
 ## Build checklist
 - [x] 1. Inventory kit templates (see KIT_INVENTORY.md)
-- [ ] 2. Import templates, build Home page, note locked Pro widgets
+- [x] 2. Kit templates imported to Elementor library (14, already present); Home page built as DRAFT (page ID 105) with placeholders for events, news, Facebook, newsletter. Pro-only widgets avoided.
 - [ ] 3. Static front page, Blog page, global colors/fonts, logo
 - [ ] 4. Header/footer without Theme Builder (Customizer or Header Footer Elementor)
 - [ ] 5. The Events Calendar, volunteer form, newsletter, donations, Facebook feed
@@ -37,7 +37,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 
 ## Open decisions for the owner
 - ~~Reservations: instant booking or request-and-approve?~~ DECIDED: request-and-approve (board approves each request).
-- What is reservable (pavilion, fields, whole park) and fee for each?
+- Reservable: pavilion, fields, and whole park (confirmed). Fee for each still needed.
 - ~~Nonprofit or town-owned?~~ DECIDED: nonprofit. Use Zeffy (free for nonprofits, no platform fee); confirm EIN/501(c)(3) status for receipts and that the org (not the owner personally) holds the payment account.
 - Permanent domain and hosting: who owns them (organization, owner as admin)?
 - Park rules, use agreement, damage-deposit policy before reservations go live.
