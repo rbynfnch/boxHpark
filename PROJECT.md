@@ -36,7 +36,7 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - [ ] 6. Reservations (last, after policy decisions)
 
 ## Open decisions for the owner
-- Reservations: instant booking or request-and-approve (recommended: request-and-approve)?
+- ~~Reservations: instant booking or request-and-approve?~~ DECIDED: request-and-approve (board approves each request).
 - What is reservable (pavilion, fields, whole park) and fee for each?
 - Nonprofit or town-owned? (donation platform, receipts, payment account owner)
 - Permanent domain and hosting: who owns them (organization, owner as admin)?
