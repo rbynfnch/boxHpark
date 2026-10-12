@@ -60,3 +60,11 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Theme colors will be changed and Box H's own photos supplied (do not use third-party photos, incl. SVI).
 - Hero idea: "A gathering place for Fairview families, friends and neighbors since 1980." + "100% community supported."
 - Content inventory started: content-inventory.csv (all rows need board verification).
+
+## Palette and button system (owner directive; applied to test site)
+- Park Green #557A5B (primary, headings, primary buttons) | Sky Blue #6FA1B8 (secondary sections, calendar, resources) | Sunshine #E4B94F (secondary CTAs, event dates, sparingly) | Clay #C66D4B (Donate/Support only, small areas) | Warm Cream #FAF7EF (main background) | Dark Slate #303A3D (text, footer).
+- Buttons: Primary = Park Green bg + Cream text (View Events, Check Availability, Reserve). Secondary = Sunshine bg + Slate text (Volunteer, Get Involved, Newsletter). Support = Clay bg + Cream text (Donate, Support Box H). Corner radius 7px.
+- Contrast notes (computed): Cream on Park Green 4.54 (ok), Slate on Sunshine 6.3, Slate on Cream 10.9, Cream on Clay 3.45 (large bold text only), Sky Blue on Cream 2.63 (never for text/links; use a darker blue like #2F6580 = 5.95 for link text), Slate on Park Green 2.4 (never).
+- Availability statuses must use icon + text (Available / Pending / Reserved), not color alone.
+- Applied: Elementor global colors set; Home page rebuilt with the section color plan (hero photo, cream events, green community message, sky-tint reservation, cream get-involved cards, deeper-cream news, sky-tint Facebook, cream Welcome to Fairview, green newsletter). Footer (Dark Slate) is built in step 4.
+- Not yet done: kit-wide default button radius (new buttons need 7px set per button, or Site Settings > Buttons), page body background cream on non-Elementor pages, link color in kit, Info color, hover/focus states outside Home.
