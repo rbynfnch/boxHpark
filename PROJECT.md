@@ -90,3 +90,6 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - Photo: box-h-park.jpg (media ID 113, 1179x868 landscape).
 - The playground is already funded and built, so the section focuses on CURRENT needs: roof repairs, kitchen grill, grandstand repairs, sprinkler system, lighting upgrades, plus events and general maintenance. (These came from 2022 SVI fundraising coverage; the board must confirm which are still open and add any new ones.)
 - Floating stat card: do not use the playground cost as a goal. Use something true and current, e.g. "100% community supported" / "Volunteer-run. No tax dollars." (SVI-sourced: NEEDS ADMIN VERIFICATION). The $92,000 / 500+ hours playground story belongs on Our Story as a past achievement ("what you built together").
+
+## Decision: single About page
+- One page named "About Box H Park" (/about/, ID 122) replaces Our Story and About / Contact. Plan in ABOUT_PLAN.md. Nav will have 8 items: Home, Events & Calendar, Reserve the Park, Get Involved, Support Box H, About Box H Park, Fairview Resources, News / Community. Page 120 (Our Story placeholder) and menu item 128 to be removed (queued for next session due to WPVibe call limit).

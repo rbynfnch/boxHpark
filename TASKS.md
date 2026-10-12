@@ -27,12 +27,12 @@ WPVibe free plan = 100 calls per rolling 24h. Plan ~15 calls per block; run `lis
    - [ ] Connect Upcoming Events and Latest News to live content (TEC shortcode, post list)
    - [ ] Mobile check; hero photo choice
 4. Core pages
-   - [ ] Our Story timeline (verification flags)
+   - [ ] About Box H Park (one page, /about/ ID 122; see ABOUT_PLAN.md): story, timeline, playground, movies, photos, Meet the Board, partners, contact. Then: rename page 122 + menu item 131 to "About Box H Park", remove "Our Story" menu item 128, trash page 120
    - [ ] Volunteer: sign-up sheet plugin, Get Involved page
    - [ ] Support Box H: Stripe links, categories; use box-h-park.jpg (ID 113) + floating stat card + checklist of CURRENT needs (see PROJECT.md design note)
    - [ ] Fairview Resources: structured resource type + 6 categories
    - [ ] History archive (events tagged box-h-history)
-   - [ ] About / Contact + contact form
+   - [ ] Contact form + address on the About page (and footer)
 5. Reservations (RESERVATIONS_PLAN.md)
    - [ ] Request form + Reserved calendar + fee table + rules
 6. Plumbing

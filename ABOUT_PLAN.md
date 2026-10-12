@@ -2,7 +2,9 @@
 
 Owner confirmed (Oct 2026): the park receives NO tax dollars. SVI-sourced "volunteer board" wording still needs board check.
 
-## Naming recommendation
+## DECISION (owner): one page, "About Box H Park" at /about/ (page ID 122). It replaces "Our Story" and "About / Contact". The two-page split below is NOT being used; keep the section map. Contact info goes near the bottom of the page and in the footer.
+
+## (Superseded) naming recommendation
 The long brief is mostly the park's story (history timeline, playground, movies, community). The nav already has "Our Story" and "About / Contact".
 - Page 1: "Our Story" (/our-story/, ID 120): hero, What is Box H, "This Park Runs on Community", timeline 1980-2024, Today, Box H Difference cards, Playground Story + gallery, Movies Under the Stars, community photos, Our Future, link to History Archive.
 - Page 2: "About & Contact" (/about/, ID 122): short intro, Meet the Board (CMS), Past Board & Leaders (optional), Community Partners (CMS), contact details/form, address, Facebook, nonprofit info (EIN, mailing).
