@@ -74,3 +74,8 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 - NOT done yet: Event Tickets (registration), volunteer sign-up plugin, Events page layout/styling, TEC settings (mobile default = List), sample events, share buttons, SEO plugin, Mailchimp, Smash Balloon.
 - Known gaps in free tier: recurring events, category dropdown filter bar, automatic attendee emails on cancellation, automatic volunteer-count link.
 - WPVibe free plan allows 100 calls per rolling 24 hours; batch work.
+
+## Navigation menu (done)
+- "Main Menu" (ID 16) assigned to header location: Home, Events & Calendar (/events/, plugin page), Reserve the Park (/reservations/, ID 117), Get Involved (/volunteer/, 118), Support Box H (/donate/, 119), Our Story (/our-story/, 120), Fairview Resources (/fairview-resources/, 121), News / Community (/news/, 115), About / Contact (/about/, 122). Pages 117-122 are "coming soon" placeholders (published, site hidden from search engines).
+- Verified in page HTML: desktop nav plus mobile toggle menu render. Header still uses theme default styling (not yet palette-styled); footer not built (Dark Slate, step 4).
+- WPVibe free plan: 100 calls / rolling 24h; about 93 used at this point.
