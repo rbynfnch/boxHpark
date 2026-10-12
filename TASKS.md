@@ -16,7 +16,7 @@ WPVibe free plan = 100 calls per rolling 24h. Plan ~15 calls per block; run `lis
 ## B. Site build (in order)
 1. Header + footer (step 4)
    - [ ] Install Header Footer Elementor (free); header: logo + menu in cream, slate text, Sunshine hover/focus
-   - [ ] Footer: Dark Slate, contact, social, quick links, newsletter placeholder
+   - [ ] Footer: Dark Slate, contact, social, quick links; newsletter band above it per PROJECT.md design note (Park Green band, Name+Email side by side, Sunshine button)
    - [ ] Kit-wide button radius 7px (Site Settings > Buttons), cream page background, darker-blue link color #2F6580
 2. Events page (EVENTS_PLAN.md)
    - [ ] TEC settings: default mobile view List, /events/ styling with palette

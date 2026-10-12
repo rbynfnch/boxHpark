@@ -93,3 +93,9 @@ Built on a TEST domain for board approval, then migrated to a permanent domain.
 
 ## Decision: single About page
 - One page named "About Box H Park" (/about/, ID 122) replaces Our Story and About / Contact. Plan in ABOUT_PLAN.md. Nav will have 8 items: Home, Events & Calendar, Reserve the Park, Get Involved, Support Box H, About Box H Park, Fairview Resources, News / Community. Page 120 (Our Story placeholder) and menu item 128 to be removed (queued for next session due to WPVibe call limit).
+
+## Design note: newsletter band (from owner screenshot of kit footer)
+- Full-width colored band. Left: large bold heading. Right: Name and Email fields side by side, full-width button underneath with a small envelope icon.
+- Use for the footer/homepage newsletter: Park Green band, cream heading ("Stay Connected" / "Never Miss What's Happening"), cream input fields, button = Sunshine with Dark Slate text + envelope icon, label "JOIN THE NEWSLETTER" (secondary-CTA rule). Stack vertically on phones; inputs need visible labels or aria-labels and clear focus outline.
+- The kit's version uses Elementor Pro's Form widget (not available). Free options: ElementsKit Lite Mailchimp widget (its REST route is present on the site; confirm it is enabled and has Name + Email), Mailchimp for WP, or MailPoet form styled to match. Needs the org's Mailchimp audience.
+- Reuse the same band on Home (replace placeholder), Events page, footer.
